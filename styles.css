@@ -1,0 +1,54 @@
+.heading{
+    background-color: rgba(0, 0, 0, 0.822);
+}
+#head1,#head2,#head3{
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: lighter;
+}
+#head1{
+    margin-top: 10px;
+}
+#head2{
+    margin:-15px 0px 10px 0px;
+}
+#head3{
+    margin:-5px 0px 20px 0px;
+   
+}
+body{
+    margin: -1.5% 20% 0% 20%;
+   background-color: rgb(31, 30, 30);
+}
+.education{
+    margin: -800px 0px 0px 500px;
+}
+#etable{
+    border: 1px solid rgb(0, 0, 0);
+}
+.activities,.achievements{
+    margin-left: 500px;
+   
+}
+
+.skills{
+    margin:-5px 0px 0px 500px;
+}
+.msg{
+    margin-left:275px ;
+    margin-top: -192px;
+}
+.skills #personal{
+    margin:-0px 0px 0px 230px;
+}
+.sign{
+    margin-left:700px ;
+    margin-top: 60px;
+    font-size: 15px;
+}
+fieldset{
+    border-style: double; 
+    border-width: thick;
+    background-color: whitesmoke;
+}
